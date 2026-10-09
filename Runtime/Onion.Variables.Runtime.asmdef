@@ -1,6 +1,6 @@
 {
-    "name": "Onion.Template.Runtime",
-    "rootNamespace": "Onion",
+    "name": "Onion.Variables.Runtime",
+    "rootNamespace": "Onion.Variables",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

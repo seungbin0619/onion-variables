@@ -1,15 +1,15 @@
 {
-  "name": "com.onion.template",
-  "version": "1.0.0",
-  "displayName": "Onion Template Package",
-  "description": "",
+  "name": "com.onion.variables",
+  "version": "0.1.0",
+  "displayName": "Onion Variables",
+  "description": "ScriptableObject variables with change events, play mode reset, and a persistence interface.",
   "unity": "6000.0",
   "author": {
     "name": "Seungbin"
   },
   "hideInEditor": false,
   "repository": {
-    "url": "",
+    "url": "https://github.com/onion-unity/onion-variables.git",
     "type": "git"
   }
 }

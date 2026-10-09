@@ -1,8 +1,8 @@
 {
-    "name": "Onion.Template.Editor",
-    "rootNamespace": "Onion",
+    "name": "Onion.Variables.Editor",
+    "rootNamespace": "Onion.Variables",
     "references": [
-        "Onion.Template.Runtime"
+        "Onion.Variables.Runtime"
     ],
     "includePlatforms": [
         "Editor"
